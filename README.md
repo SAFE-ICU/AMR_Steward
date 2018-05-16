@@ -1,7 +1,8 @@
 # AMRsteward
 Dashboard for "STEWARDING ANTIBIOTIC STEWARDSHIP IN ICUs WITH BAYESIAN ARTIFICIAL INTELLIGENCE"
 
-Tavpritesh Sethi, Shubham Maheshwari, Aditya Nagori, Rakesh Lodha
+Authors: Tavpritesh Sethi, Shubham Maheshwari, Aditya Nagori, Rakesh Lodha
 
-tavsethi@stanford.edu; tavpriteshsethi@iiitd.ac.in
+Correspondence: tavsethi@stanford.edu; tavpriteshsethi@iiitd.ac.in; rlodha1661@gmail.com
+
 
