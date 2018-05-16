@@ -193,7 +193,7 @@ dashboardPage(skin = "blue",
                               )
 )
 ,
-tags$footer("Correspondence: tavsethi@stanford.edu; rlodha1661@gmail.com; , align = "left", style = "
+tags$footer("Correspondence: tavsethi@stanford.edu; rlodha1661@gmail.com;"  , align = "left", style = "
             position:absolute;
             bottom:0;
             width:100%;
