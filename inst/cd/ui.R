@@ -193,7 +193,7 @@ dashboardPage(skin = "blue",
                               )
 )
 ,
-tags$footer("Correspondence: tavpriteshsethi@iiitd.ac.in; Funding Support: The Wellcome Trust/DBT India Alliance grant IA/CPHE/14/1/501504", align = "center", style = "
+tags$footer("Correspondence: tavpriteshsethi@iiitd.ac.in;       Funding Support: The Wellcome Trust/DBT India Alliance grant IA/CPHE/14/1/501504", align = "center", style = "
             position:absolute;
             bottom:0;
             width:100%;
