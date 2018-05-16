@@ -13,8 +13,8 @@ Description: Publicly shared dashboard for "STEWARDING ANTIBIOTIC STEWARDSHIP IN
 biocViews:
 Depends: R (>= 3.3.1)
 Imports: RBGL,graph,bnlearn,rhandsontable,shiny,shinydashboard,dplyr,visNetwork,shinyWidgets,tools,shinyalert,shinycssloaders,rintrojs,arules,psych,DT,linkcomm,igraph,shinyBS
-URL: https://github.com/SAFE-ICU/AMR_Steward
-BugReports: https://github.com/SAFE-ICU/AMR_Steward/issues
+URL: https://github.com/SAFE-ICU/AMRsteward
+BugReports: https://github.com/SAFE-ICU/AMRsteward/issues
 Suggests: knitr, rmarkdown, rcompanion
 VignetteBuilder: knitr
 License: MIT License | file License
