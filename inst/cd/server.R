@@ -512,7 +512,7 @@ shinyServer(function(input, output,session) {
                                                             "ellipse", "database", "text", "diamond"))
           updateSelectInput(session,'varshape2',choices = c( "dot","square", "triangle", "box", "circle", "star",
                                                              "ellipse", "database", "text", "diamond"))
-          updateSelectInput(session,'graph_layout',choices = c("layout_nicely","layout_as_star","layout_as_tree","layout_in_circle","layout_with_sugiyama","layout_on_sphere","layout_randomly","layout_with_fr","layout_with_kk","layout_with_lgl","layout_with_mds","layout_on_grid","layout_with_graphopt","layout_with_gem","layout_with_dh"))
+          updateSelectInput(session,'graph_layout',choices = c("layout_as_tree","layout_as_star","layout_nicely","layout_in_circle","layout_with_sugiyama","layout_on_sphere","layout_randomly","layout_with_fr","layout_with_kk","layout_with_lgl","layout_with_mds","layout_on_grid","layout_with_graphopt","layout_with_gem","layout_with_dh"))
           updateSelectInput(session,'paramSelect',choices = nodeNames)
           graph<<-graph_from_edgelist(as.matrix(NetworkGraph),directed = TRUE)
           updateSelectInput(session,"neighbornodes",choices = "")
