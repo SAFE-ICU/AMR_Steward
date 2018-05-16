@@ -193,14 +193,14 @@ dashboardPage(skin = "blue",
                               )
 )
 ,
-tags$footer("Correspondence: tavsethi@stanford.edu; rlodha1661@gmail.com;"  , align = "left", style = "
+tags$header("Correspondence: tavsethi@stanford.edu; rlodha1661@gmail.com;"  , align = "center", style = "
             position:absolute;
             bottom:0;
             width:100%;
             height:30px;
             padding:5px;
             background-color: white;z-index:1200;"),
- tags$footer("Funding Support: The Wellcome Trust/DBT India Alliance grant IA/CPHE/14/1/501504", align = "right", style = "
+ tags$footer("Funding Support: The Wellcome Trust/DBT India Alliance grant IA/CPHE/14/1/501504", align = "center", style = "
             position:absolute;
             bottom:0;
             width:100%;
