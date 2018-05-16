@@ -205,7 +205,7 @@ tags$footer("Correspondence: tavsethi@stanford.edu; rlodha1661@gmail.com;Funding
             width:100%;
             height:30px;
             padding:5px;
-            background-color: white;z-index:1200;")),
+            background-color: white;z-index:1200;"))
       
 )
 
